@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://li-xyx.github.io/cnweb-circle28-com/sitemap.xml
